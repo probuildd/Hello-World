@@ -1,1 +1,24 @@
+body {
+    background-color: lightyellow;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+h1, h2 {
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+p {
+    text-align: justify;
+    margin: 20px 0;
+}
+a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: none;
+    color: blue;
+}
 
