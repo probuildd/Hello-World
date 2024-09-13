@@ -1,13 +1,14 @@
-body.lightblue {
-    background-color: lightblue;
+body {
     font-family: Arial, sans-serif;
     margin: 20px;
 }
 
+body.lightblue {
+    background-color: lightblue;
+}
+
 body.lightyellow {
     background-color: lightyellow;
-    font-family: Arial, sans-serif;
-    margin: 20px;
 }
 
 h1, h2 {
